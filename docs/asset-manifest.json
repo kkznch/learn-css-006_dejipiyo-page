@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/learn-css-006_dejipiyo-page/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/learn-css-006_dejipiyo-page/static/js/main.c6a96abd.chunk.js",
+    "main.js.map": "/learn-css-006_dejipiyo-page/static/js/main.c6a96abd.chunk.js.map",
+    "runtime-main.js": "/learn-css-006_dejipiyo-page/static/js/runtime-main.c807ae6d.js",
+    "runtime-main.js.map": "/learn-css-006_dejipiyo-page/static/js/runtime-main.c807ae6d.js.map",
+    "static/js/2.048de245.chunk.js": "/learn-css-006_dejipiyo-page/static/js/2.048de245.chunk.js",
+    "static/js/2.048de245.chunk.js.map": "/learn-css-006_dejipiyo-page/static/js/2.048de245.chunk.js.map",
+    "index.html": "/learn-css-006_dejipiyo-page/index.html",
+    "precache-manifest.5b388404380644e6f5a06108c040848e.js": "/learn-css-006_dejipiyo-page/precache-manifest.5b388404380644e6f5a06108c040848e.js",
+    "service-worker.js": "/learn-css-006_dejipiyo-page/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/learn-css-006_dejipiyo-page/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.048de245.chunk.js.LICENSE.txt": "/learn-css-006_dejipiyo-page/static/js/2.048de245.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/learn-css-006_dejipiyo-page/static/media/logo.8f381000.png",
+    "static/media/macho-micronn.svg": "/learn-css-006_dejipiyo-page/static/media/macho-micronn.d5006bfb.svg",
+    "static/media/macho-zun.svg": "/learn-css-006_dejipiyo-page/static/media/macho-zun.7d58d13b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c807ae6d.js",
+    "static/js/2.048de245.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c6a96abd.chunk.js"
+  ]
+}
